@@ -2,7 +2,7 @@
 
 [IN PROGRESS] Project for making a LED light controller for stairs with ESP32, RS485, VL53L0X, etc.
 
-![Stair Light - Controller](https://raw.githubusercontent.com/giltesa/stair-light-controller/master/4. SketchUP/Controller top.jpg)
+![Stair Light - Controller](https://raw.githubusercontent.com/giltesa/stair-light-controller/master/banner.jpg
 
 
 ## License
