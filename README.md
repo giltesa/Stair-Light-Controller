@@ -11,7 +11,7 @@ Boards:
 These boards are made for install them inside a BHT-100GA thermostat. I think It can be difficult to find it now, because I bought it 5 years ago for making a WiFi thermostat but finally I discarded my initially idea.
 
 
-![BHT-100GA](https://raw.githubusercontent.com/giltesa/stair-light-controller/master/3. Documentation/BHT-100GA - Plastic case/BHT-100GA_1.jpg)
+![BHT-100GA](https://raw.githubusercontent.com/giltesa/stair-light-controller/master/3.%20Documentation/BHT-100GA%20-%20Plastic%20case/BHT-100GA_1.jpg)
 
 
 Anyway, you can use the circuit in your own board if you want.
@@ -29,7 +29,7 @@ The circuit contains a ESP32 as microcontroller and WiFi/Bluetooth communication
   - External connector to connect the PSU board (power, NeoPixel and RS485 communication).
 
 
-![Stair Light - Controller](https://raw.githubusercontent.com/giltesa/stair-light-controller/master/4. SketchUP/Controller top.jpg)
+![Stair Light - Controller](https://raw.githubusercontent.com/giltesa/stair-light-controller/master/4.%20SketchUP/Controller%20top.jpg)
 
 
 ## License
