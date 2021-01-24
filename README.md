@@ -1,6 +1,6 @@
 # Stair Light - Controller [IN PROGRESS]
 
-This project contains 3 boards for making a LED light controller for using with stairs, corridors, or anything where people can cross, and you want to control light effects automatically.
+This project contain 3 boards for making a LED light controller for using with stairs, corridors, or anything where people can cross, and you want to control light effects automatically.
 
 Boards:
 
@@ -14,9 +14,9 @@ These boards are made for install them inside a BHT-100GA thermostat. I think It
 ![BHT-100GA](https://raw.githubusercontent.com/giltesa/stair-light-controller/master/3.%20Documentation/BHT-100GA%20-%20Plastic%20case/BHT-100GA_1.jpg)
 
 
-Anyway, you can use the circuit in your own board if you want.
+Anyway, you can use the circuit in your own case if you want.
 
-The circuit contains a ESP32 as microcontroller and WiFi/Bluetooth communication, it also has a RS485 controller to connect the slave sensors to detect people who cross. This is the full list specification:
+The circuit contains a ESP32 as microcontroller and WiFi/Bluetooth communication, it also has a RS485 controller to connect to the slave sensors to detect people who cross. This is the full list specification:
 
 - **Microcontroller**: ESP32-WROOM / ESP32-WROVER-B (with auto-boot).
 - **Communications**: WiFi, Bluetooth, RS485 3V3.
