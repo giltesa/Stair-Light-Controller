@@ -1,0 +1,12 @@
+3. Stair Light - Controller PSU at 27/01/2021 22:03:47
+
+Assembly variant:
+
+Qty Value                  Device                  Parts
+1                          1X05                    J3
+1                          TERMINAL_5MM_2P1        J1
+1                          TERMINAL_5MM_4P_90º_20A J2
+1   2K                     R0603                   R1
+1   1000uF                 CPOL-EUB45181A          C1
+1   HILINK HLK-PM01 5V     HILINK_HLK-PM01_5V      U1
+1   RED                    LED-BLUE0603            L1

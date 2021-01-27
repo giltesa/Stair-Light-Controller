@@ -31,6 +31,10 @@ The circuit contains a ESP32 as microcontroller and WiFi/Bluetooth communication
 
 ![Stair Light - Controller](https://raw.githubusercontent.com/giltesa/stair-light-controller/master/4.%20SketchUP/Controller%20top.jpg)
 
+![Stair Light - USB](https://raw.githubusercontent.com/giltesa/stair-light-controller/master/4.%20SketchUP/USB%20top.jpg)
+
+![Stair Light - PSU](https://raw.githubusercontent.com/giltesa/stair-light-controller/master/4.%20SketchUP/PSU%20top.jpg)
+
 
 ## License
 

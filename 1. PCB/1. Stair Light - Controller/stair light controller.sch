@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="100" unitdist="mil" unit="mil" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
@@ -1299,24 +1299,24 @@
 <circle x="0" y="0" radius="16.2" width="0.254" layer="21"/>
 <text x="-11.396" y="-18.125" size="0.9144" layer="25" font="vector" ratio="12" align="center-left">&gt;NAME</text>
 <text x="-11.396" y="-19.395" size="0.9144" layer="25" font="vector" ratio="12" align="center-left">&gt;VALUE</text>
-<wire x1="-9.652" y1="18.7706" x2="-8.128" y2="18.7706" width="0.127" layer="21"/>
-<wire x1="-8.128" y1="18.7706" x2="-8.89" y2="19.7866" width="0.127" layer="21"/>
-<wire x1="-8.89" y1="19.7866" x2="-9.652" y2="18.7706" width="0.127" layer="21"/>
-<wire x1="-9.4996" y1="18.8468" x2="-8.3058" y2="18.8722" width="0.127" layer="21"/>
-<wire x1="-8.3058" y1="18.8722" x2="-8.89" y2="19.6342" width="0.127" layer="21"/>
-<wire x1="-8.89" y1="19.6342" x2="-9.4234" y2="18.9484" width="0.127" layer="21"/>
-<wire x1="-9.4234" y1="18.9484" x2="-8.4836" y2="18.923" width="0.127" layer="21"/>
-<wire x1="-8.4836" y1="18.923" x2="-8.9154" y2="19.5072" width="0.127" layer="21"/>
-<wire x1="-8.9154" y1="19.5072" x2="-9.271" y2="18.9992" width="0.127" layer="21"/>
-<wire x1="-9.271" y1="18.9992" x2="-8.636" y2="18.9738" width="0.127" layer="21"/>
-<wire x1="-8.636" y1="18.9738" x2="-8.9154" y2="19.3802" width="0.127" layer="21"/>
-<wire x1="-8.9154" y1="19.3802" x2="-9.144" y2="19.05" width="0.127" layer="21"/>
-<wire x1="-9.144" y1="19.05" x2="-8.7884" y2="19.05" width="0.127" layer="21"/>
-<wire x1="-8.7884" y1="19.05" x2="-8.8646" y2="19.2024" width="0.127" layer="21"/>
-<wire x1="-8.8646" y1="19.2024" x2="-8.9916" y2="19.2278" width="0.127" layer="21"/>
-<wire x1="-8.9916" y1="19.2278" x2="-8.9916" y2="19.1262" width="0.127" layer="21"/>
-<wire x1="-8.9916" y1="19.1262" x2="-8.9662" y2="19.1516" width="0.127" layer="21"/>
-<wire x1="-8.9662" y1="19.1516" x2="-8.89" y2="19.1008" width="0.127" layer="21"/>
+<wire x1="-9.652" y1="17.5006" x2="-8.128" y2="17.5006" width="0.127" layer="21"/>
+<wire x1="-8.128" y1="17.5006" x2="-8.89" y2="18.5166" width="0.127" layer="21"/>
+<wire x1="-8.89" y1="18.5166" x2="-9.652" y2="17.5006" width="0.127" layer="21"/>
+<wire x1="-9.4996" y1="17.5768" x2="-8.3058" y2="17.6022" width="0.127" layer="21"/>
+<wire x1="-8.3058" y1="17.6022" x2="-8.89" y2="18.3642" width="0.127" layer="21"/>
+<wire x1="-8.89" y1="18.3642" x2="-9.4234" y2="17.6784" width="0.127" layer="21"/>
+<wire x1="-9.4234" y1="17.6784" x2="-8.4836" y2="17.653" width="0.127" layer="21"/>
+<wire x1="-8.4836" y1="17.653" x2="-8.9154" y2="18.2372" width="0.127" layer="21"/>
+<wire x1="-8.9154" y1="18.2372" x2="-9.271" y2="17.7292" width="0.127" layer="21"/>
+<wire x1="-9.271" y1="17.7292" x2="-8.636" y2="17.7038" width="0.127" layer="21"/>
+<wire x1="-8.636" y1="17.7038" x2="-8.9154" y2="18.1102" width="0.127" layer="21"/>
+<wire x1="-8.9154" y1="18.1102" x2="-9.144" y2="17.78" width="0.127" layer="21"/>
+<wire x1="-9.144" y1="17.78" x2="-8.7884" y2="17.78" width="0.127" layer="21"/>
+<wire x1="-8.7884" y1="17.78" x2="-8.8646" y2="17.9324" width="0.127" layer="21"/>
+<wire x1="-8.8646" y1="17.9324" x2="-8.9916" y2="17.9578" width="0.127" layer="21"/>
+<wire x1="-8.9916" y1="17.9578" x2="-8.9916" y2="17.8562" width="0.127" layer="21"/>
+<wire x1="-8.9916" y1="17.8562" x2="-8.9662" y2="17.8816" width="0.127" layer="21"/>
+<wire x1="-8.9662" y1="17.8816" x2="-8.89" y2="17.8308" width="0.127" layer="21"/>
 <circle x="-15" y="15" radius="1.5" width="0.127" layer="41"/>
 <circle x="-15" y="15" radius="1.5" width="0.127" layer="42"/>
 <circle x="-15" y="15" radius="1.5" width="0.127" layer="43"/>
@@ -1470,13 +1470,13 @@
 <pad name="4" x="1.27" y="1.27" drill="1.016" shape="octagon"/>
 <text x="-2.54" y="3.175" size="1.27" layer="25" ratio="10">&gt;NAME</text>
 <text x="-2.54" y="-4.445" size="1.27" layer="27">&gt;VALUE</text>
-<wire x1="-3.175" y1="-1.27" x2="-3.81" y2="-0.635" width="0.3048" layer="21"/>
-<wire x1="-3.81" y1="-0.635" x2="-3.81" y2="-1.905" width="0.3048" layer="21"/>
-<wire x1="-3.81" y1="-1.905" x2="-3.175" y2="-1.27" width="0.3048" layer="21"/>
-<wire x1="-3.175" y1="-1.27" x2="-3.429" y2="-1.27" width="0.3048" layer="21"/>
-<wire x1="-3.429" y1="-1.27" x2="-3.683" y2="-1.016" width="0.3048" layer="21"/>
-<wire x1="-3.683" y1="-1.016" x2="-3.683" y2="-1.397" width="0.3048" layer="21"/>
-<wire x1="-3.683" y1="-1.397" x2="-3.556" y2="-1.524" width="0.3048" layer="21"/>
+<wire x1="-3.048" y1="-1.27" x2="-3.683" y2="-0.635" width="0.3048" layer="21"/>
+<wire x1="-3.683" y1="-0.635" x2="-3.683" y2="-1.905" width="0.3048" layer="21"/>
+<wire x1="-3.683" y1="-1.905" x2="-3.048" y2="-1.27" width="0.3048" layer="21"/>
+<wire x1="-3.048" y1="-1.27" x2="-3.302" y2="-1.27" width="0.3048" layer="21"/>
+<wire x1="-3.302" y1="-1.27" x2="-3.556" y2="-1.016" width="0.3048" layer="21"/>
+<wire x1="-3.556" y1="-1.016" x2="-3.556" y2="-1.397" width="0.3048" layer="21"/>
+<wire x1="-3.556" y1="-1.397" x2="-3.429" y2="-1.524" width="0.3048" layer="21"/>
 </package>
 </packages>
 <symbols>
@@ -1672,14 +1672,14 @@
 <pin name="-" x="-5.08" y="0" visible="pad" length="short" direction="pas"/>
 </symbol>
 <symbol name="LCD_GC9A01">
-<pin name="RST" x="7.62" y="2.54" visible="pin" length="short" direction="nc" rot="R180"/>
-<pin name="SDA" x="7.62" y="0" visible="pin" length="short" direction="nc" rot="R180"/>
-<pin name="SCL" x="7.62" y="-2.54" visible="pin" length="short" direction="nc" rot="R180"/>
-<pin name="3V3" x="7.62" y="-5.08" visible="pin" length="short" direction="nc" rot="R180"/>
-<pin name="CS" x="7.62" y="7.62" visible="pin" length="short" direction="nc" rot="R180"/>
-<pin name="GND" x="7.62" y="-7.62" visible="pin" length="short" direction="nc" rot="R180"/>
-<pin name="DC" x="7.62" y="5.08" visible="pin" length="short" direction="nc" rot="R180"/>
-<pin name="BLK" x="7.62" y="10.16" visible="pin" length="short" direction="nc" rot="R180"/>
+<pin name="RST" x="7.62" y="2.54" visible="pin" length="short" direction="in" rot="R180"/>
+<pin name="SDA" x="7.62" y="0" visible="pin" length="short" rot="R180"/>
+<pin name="SCL" x="7.62" y="-2.54" visible="pin" length="short" rot="R180"/>
+<pin name="3V3" x="7.62" y="-5.08" visible="pin" length="short" direction="pwr" rot="R180"/>
+<pin name="CS" x="7.62" y="7.62" visible="pin" length="short" direction="in" rot="R180"/>
+<pin name="GND" x="7.62" y="-7.62" visible="pin" length="short" direction="pwr" rot="R180"/>
+<pin name="DC" x="7.62" y="5.08" visible="pin" length="short" direction="in" rot="R180"/>
+<pin name="BLK" x="7.62" y="10.16" visible="pin" length="short" direction="in" rot="R180"/>
 <text x="-2.54" y="15.24" size="1.27" layer="95" font="vector" ratio="12" align="center-left">&gt;NAME</text>
 <text x="-2.54" y="-12.7" size="1.27" layer="95" font="vector" ratio="12" align="center-left">&gt;VALUE</text>
 <wire x1="5.08" y1="12.7" x2="5.08" y2="-10.16" width="0.254" layer="94"/>
@@ -27005,7 +27005,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="IC5" library="adafruit" deviceset="DS3231" device="/SO" value="DS3231"/>
 <part name="GND8" library="SparkFun" deviceset="GND" device=""/>
 <part name="BAT" library=",giltesa" deviceset="LIR2032_SMD" device="" value="LIR2032"/>
-<part name="D1" library="adafruit" deviceset="DIODE" device="SOD-123" value="1N4148 "/>
+<part name="D1" library="adafruit" deviceset="DIODE" device="SOD-123" value="1N4148"/>
 <part name="R13" library=",giltesa" deviceset="R0603" device="" value="200R"/>
 <part name="JP3" library=",giltesa" deviceset="JUMPER-SMD" device="0402" value=""/>
 <part name="U$5" library=",giltesa" deviceset="CR2032" device="SMT"/>
@@ -27721,12 +27721,13 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="289.56" y1="38.1" x2="289.56" y2="43.18" width="0.1524" layer="91"/>
 <wire x1="292.1" y1="22.86" x2="289.56" y2="22.86" width="0.1524" layer="91"/>
 <junction x="289.56" y="22.86"/>
-<pinref part="S4" gate="G$1" pin="1"/>
-<wire x1="292.1" y1="30.48" x2="289.56" y2="30.48" width="0.1524" layer="91"/>
 <pinref part="S3" gate="G$1" pin="1"/>
 <wire x1="292.1" y1="38.1" x2="289.56" y2="38.1" width="0.1524" layer="91"/>
 <junction x="289.56" y="38.1"/>
 <pinref part="SUPPLY6" gate="G$1" pin="3.3V"/>
+<pinref part="S4" gate="G$1" pin="1"/>
+<wire x1="292.1" y1="30.48" x2="289.56" y2="30.48" width="0.1524" layer="91"/>
+<junction x="289.56" y="30.48"/>
 </segment>
 <segment>
 <pinref part="SUPPLY5" gate="G$1" pin="3.3V"/>
@@ -28073,8 +28074,9 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <segment>
 <pinref part="U1&quot;" gate="G$1" pin="IO2"/>
 <pinref part="IC1" gate="G$1" pin="IO2"/>
-<wire x1="60.96" y1="71.12" x2="66.04" y2="71.12" width="0.1524" layer="91"/>
 <label x="66.04" y="71.12" size="1.27" layer="95" xref="yes"/>
+<wire x1="60.96" y1="71.12" x2="66.04" y2="71.12" width="0.1524" layer="91"/>
+<junction x="60.96" y="71.12"/>
 </segment>
 <segment>
 <pinref part="J-SD" gate="G$1" pin="6"/>
@@ -28642,6 +28644,81 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </nets>
 </sheet>
 </sheets>
+<errors>
+<approved hash="202,1,231.14,139.7,IC2G$1,RI,,,,"/>
+<approved hash="104,1,200.66,165.1,IC2G$1,VIO,3.3V,,,"/>
+<approved hash="104,1,200.66,162.56,IC2G$1,VDD,3.3V,,,"/>
+<approved hash="104,1,200.66,160.02,IC2G$1,REGIN,3.3V,,,"/>
+<approved hash="104,1,200.66,139.7,IC2G$1,VBUS,5V,,,"/>
+<approved hash="202,1,231.14,137.16,IC2G$1,DCD,,,,"/>
+<approved hash="202,1,231.14,132.08,IC2G$1,DSR,,,,"/>
+<approved hash="202,1,231.14,121.92,IC2G$1,CTS,,,,"/>
+<approved hash="104,1,256.54,162.56,IC2G$2,TP,GND,,,"/>
+<approved hash="104,1,396.24,91.44,IC5,VBAT,N$4,,,"/>
+<approved hash="104,1,365.76,93.98,IC5,VCC,3.3V,,,"/>
+<approved hash="103,1,365.76,86.36,IC5,NC,GND,,,"/>
+<approved hash="103,1,365.76,83.82,IC5,NC1,GND,,,"/>
+<approved hash="103,1,365.76,81.28,IC5,NC2,GND,,,"/>
+<approved hash="103,1,365.76,78.74,IC5,NC3,GND,,,"/>
+<approved hash="103,1,396.24,78.74,IC5,NC4,GND,,,"/>
+<approved hash="103,1,396.24,81.28,IC5,NC5,GND,,,"/>
+<approved hash="103,1,396.24,83.82,IC5,NC6,GND,,,"/>
+<approved hash="103,1,396.24,86.36,IC5,NC7,GND,,,"/>
+<approved hash="104,1,477.52,81.28,IC6,VDD,3.3V,,,"/>
+<approved hash="104,1,307.34,78.74,J2,3V3,3.3V,,,"/>
+<approved hash="106,1,48.26,142.24,N$3,,,,,"/>
+<approved hash="112,1,26.67,81.28,,,,,,"/>
+<approved hash="112,1,26.67,78.74,,,,,,"/>
+<approved hash="112,1,26.67,12.7,,,,,,"/>
+<approved hash="112,1,26.67,20.32,,,,,,"/>
+<approved hash="112,1,26.67,17.78,,,,,,"/>
+<approved hash="112,1,26.67,15.24,,,,,,"/>
+<approved hash="112,1,59.69,73.66,,,,,,"/>
+<approved hash="112,1,59.69,71.12,,,,,,"/>
+<approved hash="112,1,59.69,68.58,,,,,,"/>
+<approved hash="112,1,59.69,66.04,,,,,,"/>
+<approved hash="112,1,59.69,63.5,,,,,,"/>
+<approved hash="112,1,59.69,60.96,,,,,,"/>
+<approved hash="112,1,59.69,58.42,,,,,,"/>
+<approved hash="112,1,59.69,55.88,,,,,,"/>
+<approved hash="112,1,59.69,53.34,,,,,,"/>
+<approved hash="112,1,59.69,50.8,,,,,,"/>
+<approved hash="112,1,59.69,48.26,,,,,,"/>
+<approved hash="112,1,59.69,45.72,,,,,,"/>
+<approved hash="112,1,59.69,43.18,,,,,,"/>
+<approved hash="112,1,59.69,40.64,,,,,,"/>
+<approved hash="112,1,59.69,38.1,,,,,,"/>
+<approved hash="112,1,59.69,35.56,,,,,,"/>
+<approved hash="112,1,59.69,33.02,,,,,,"/>
+<approved hash="112,1,59.69,30.48,,,,,,"/>
+<approved hash="112,1,59.69,27.94,,,,,,"/>
+<approved hash="112,1,59.69,25.4,,,,,,"/>
+<approved hash="112,1,59.69,22.86,,,,,,"/>
+<approved hash="112,1,59.69,20.32,,,,,,"/>
+<approved hash="112,1,59.69,17.78,,,,,,"/>
+<approved hash="112,1,59.69,78.74,,,,,,"/>
+<approved hash="112,1,26.67,55.88,,,,,,"/>
+<approved hash="112,1,26.67,58.42,,,,,,"/>
+<approved hash="112,1,26.67,50.8,,,,,,"/>
+<approved hash="112,1,26.67,53.34,,,,,,"/>
+<approved hash="112,1,59.69,12.7,,,,,,"/>
+<approved hash="112,1,59.69,15.24,,,,,,"/>
+<approved hash="112,1,26.67,63.5,,,,,,"/>
+<approved hash="112,1,26.67,60.96,,,,,,"/>
+<approved hash="112,1,59.69,81.28,,,,,,"/>
+<approved hash="112,1,406.4,87.63,,,,,,"/>
+<approved hash="112,1,406.4,80.01,,,,,,"/>
+<approved hash="115,1,131.976,90.066,FRAME4,,,,,"/>
+<approved hash="115,1,406.4,83.82,U$5,,,,,"/>
+<approved hash="115,1,513.317,151.261,J1,,,,,"/>
+<approved hash="115,1,406.296,90.066,FRAME1,,,,,"/>
+<approved hash="115,1,330.817,152.262,J-SD-E,,,,,"/>
+<approved hash="115,1,306.723,152.262,J-SD,,,,,"/>
+<approved hash="115,1,149.384,137.298,J-USB-E,,,,,"/>
+<approved hash="115,1,169.433,137.298,J-USB,,,,,"/>
+<approved hash="117,1,349.25,149.86,EXT_PCB_GND,,,,,"/>
+<approved hash="117,1,137.16,115.57,EXT_PCB_GND,,,,,"/>
+</errors>
 </schematic>
 </drawing>
 </eagle>

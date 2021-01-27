@@ -1,0 +1,43 @@
+1. Stair Light - Controller at 27/01/2021 23:38:35
+
+Assembly variant:
+
+Qty Value                  Device                               Parts
+1                          BUZZER_9MM                           BUZZER
+1                          CR2032SMT                            U$5
+1                          PINHD-1X5                            J1
+1   1K                     R0603                                R7
+1   1N4148                 DIODESOD-123                         D1
+2   1k                     4R-N0603-ARV                         RN1, RN2
+2   4.7K                   R0603                                R2, R10
+2   5.1k                   R0603                                R1, R4
+3   10K                    R0603                                R5, R11, R12
+1   10k                    4R-N0603-ARV                         RN3
+1   10k                    R0603                                R15
+1   10uF                   C0805                                C4
+2   10uF                   CAP_POL1206                          C6, C8
+1   100nF                  C0603                                C3
+1   120R                   R0603                                R3
+1   200R                   R0603                                R13
+1   BOOT                   SWITCH_2P4.6X2.8MM                   S2
+1   CP2104                 CP2104                               IC2
+1   DOWN                   MOMENTARY-SWITCH-SPST-SMD-6.2MM-TALL S5
+1   DS3231                 DS3231/SO                            IC5
+1   ESP32-WROOM            ESP32-WROOMNARROW                    U1"
+1   ESP32-WROVER-B         ESP32-WROVER-B                       IC1
+1   HT7333                 HT7333                               IC3
+1   HTU21D                 HTU21DSMD                            IC6
+1   MAX3485                RS485SOIC                            IC4
+1   MENU                   MOMENTARY-SWITCH-SPST-SMD-6.2MM-TALL S3
+1   MMBT2222               TRANSISTOR_NPNSOT23                  Q3
+2   MMBT2222               TRANSISTOR_NPNSOT23-3                Q1, Q2
+1   MicroSD                MICROSD_2                            X2
+1   OK                     MOMENTARY-SWITCH-SPST-SMD-6.2MM-TALL S6
+1   PWD                    LED-BLUE0603                         L1
+1   RESET                  SWITCH_2P4.6X2.8MM                   S1
+1   RX                     LED-BLUE0603                         L3
+1   STAT                   LED-BLUE0603                         L2
+1   TFT_GC9A01             LCD_GC9A01                           J2
+1   TX                     LED-BLUE0603                         L4
+1   UP                     MOMENTARY-SWITCH-SPST-SMD-6.2MM-TALL S4
+1   USB-C                  USB_C16PIN                           X1

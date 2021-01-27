@@ -1,0 +1,11 @@
+2. Stair Light - Controller USB at 27/01/2021 22:27:55
+
+Assembly variant:
+
+Qty Value   Device       Parts
+1           2X02         J-USB-E
+1           2X03         J-SD-E
+2   5.1k    R0603        R1, R4
+1   10k     4R-N0603-ARV RN3
+1   MicroSD MICROSD_2    X2
+1   USB-C   USB_C16PIN   X1

@@ -36200,7 +36200,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <sheets>
 <sheet>
 <plain>
-<text x="163.576" y="24.892" size="5.08" layer="94">LED STAIRS PSU</text>
+<text x="163.576" y="24.892" size="5.08" layer="94">STAIR LIGHT PSU</text>
 <text x="163.576" y="12.192" size="5.08" layer="94">http://giltesa.com</text>
 <text x="243.586" y="6.35" size="2.54" layer="94">V1.0</text>
 </plain>
